@@ -1,0 +1,5 @@
+name: MinecraftFixes
+main: com.gmail.filoghost.minecraftfixes.MinecraftFixes
+version: 1.0
+
+depend: [WildCommons]
